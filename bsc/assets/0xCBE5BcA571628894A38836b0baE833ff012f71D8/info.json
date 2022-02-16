@@ -8,7 +8,7 @@
     "type": "BEP20",
     "symbol": "IRT",
     "decimals": 18,
-    "slippage": 3,
+    "slippage": 1,
     "status": "active",
     "id": "0xCBE5BcA571628894A38836b0baE833ff012f71D8",
     "audits": [
