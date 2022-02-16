@@ -1,0 +1,17 @@
+{
+    "name": "Infinity Rocket Token",
+    "website": "https://irocket.pro/",
+    "telegram": "https://t.me/irocketeng",
+    "twitter": "https://twitter.com/iRocketToken",
+    "description": "Infinity Rocket is a multi-purpose platform that allows you to simplify the launch and promotion of any projects on the blockchain.",
+    "explorer": "https://bscscan.com/token/0xcbe5bca571628894a38836b0bae833ff012f71d8",
+    "type": "BEP20",
+    "symbol": "IRT",
+    "decimals": 18,
+    "slippage": 3,
+    "status": "active",
+    "id": "0xCBE5BcA571628894A38836b0baE833ff012f71D8",
+    "audits": [
+        "https://github.com/TechRate/Smart-Contract-Audits/blob/main/December/Infinity%20Rocket%20Token%20Full%20Smart%20Contract%20Security%20Audit.pdf"
+    ]
+}
