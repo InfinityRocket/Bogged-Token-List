@@ -11,7 +11,6 @@
     "status": "active",
     "id": "0xCBE5BcA571628894A38836b0baE833ff012f71D8",
     "audits": [
-        "https://github.com/TechRate/Smart-Contract-Audits/blob/main/December/Infinity%20Rocket%20Token%20Full%20Smart%20Contract%20Security%20Audit.pdf",
         "https://dessertswap.finance/audits/Infinity%20Rocket%20BSC%20Audit%2012789501.pdf"
     ]
     "tags": [
